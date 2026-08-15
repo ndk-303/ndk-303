@@ -12,6 +12,9 @@ Building backend systems, realtime applications, and scalable software.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoa-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/khoa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square\&logo=vercel\&logoColor=white)](#)
 
+<a href="https://aisq.dev/members/khoand">
+  <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
+</a>
 </div>
 
 ---
