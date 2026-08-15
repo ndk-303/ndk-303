@@ -2,7 +2,7 @@
 
 # Nguyen Dang Khoa
 
-### Backend Engineer
+### Software Engineer
 
 Building backend systems, realtime applications, and scalable software.
 
