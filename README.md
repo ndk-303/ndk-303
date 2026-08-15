@@ -51,8 +51,3 @@ Currently, I'm expanding my experience through backend projects while exploring 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 
----
-
-### Interests
-
-I'm interested in backend architecture, system design, cloud computing, distributed systems, microservices, realtime communication, and AI infrastructure, with a focus on understanding how reliable software systems are designed and scaled.
