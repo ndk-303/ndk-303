@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/readme/hero.svg" alt="Nguyen Dang Khoa - Software Engineer / Backend Systems" width="100%" />
+<img src="./readme/hero.svg" alt="Nguyen Dang Khoa - Software Engineer / Backend Systems" width="100%" />
 
 I build backend systems and explore how software scales.
 
@@ -20,7 +20,7 @@ I build backend systems and explore how software scales.
 
 ---
 
-<img src="./assets/readme/section-about.svg" alt="01 / About" width="100%" />
+<img src="./readme/section-about.svg" alt="01 / About" width="100%" />
 
 I'm Khoa, a Software Engineering student at Ton Duc Thang University in Ho Chi Minh City, Vietnam.
 My focus is backend systems - the part of software most people never see but everyone depends on.
@@ -35,17 +35,7 @@ without making that complexity leak into the product.
 
 ---
 
-<img src="./assets/readme/section-stack.svg" alt="03 / Tech Stack" width="100%" />
-
-| CORE | DATA & INFRA | TOOLS |
-|---|---|---|
-| Node.js | MongoDB | Git |
-| NestJS | Redis | GitHub |
-| TypeScript | Docker | GitHub Actions |
-| React / React Native | Nginx | Postman |
-| Socket.IO / WebSocket | Cloudinary | Swagger |
-| REST API | PostgreSQL / MySQL | Linux |
-
+<img src="./readme/section-stack.svg" alt="03 / Tech Stack" width="100%" />
 <p>
   <img src="https://img.shields.io/badge/Node.js-0F0F0D?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0052FF" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-0F0F0D?style=flat-square&logo=nestjs&logoColor=white&labelColor=0052FF" alt="NestJS" />
@@ -61,7 +51,7 @@ without making that complexity leak into the product.
 
 ---
 
-<img src="./assets/readme/section-interests.svg" alt="05 / Interests" width="100%" />
+<img src="./readme/section-interests.svg" alt="05 / Interests" width="100%" />
 
 `system-design` `microservices` `distributed-systems` `real-time-systems`
 `ai-powered-apps` `database-internals`
