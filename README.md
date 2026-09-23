@@ -35,25 +35,44 @@ without making that complexity leak into the product.
 
 ---
 
-<img src="./readme/section-stack.svg" alt="03 / Tech Stack" width="100%" />
+<img src="./readme/section-interests.svg" alt="02 / Interests" width="100%" />
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-0F0F0D?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0052FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-0F0F0D?style=flat-square&logo=nestjs&logoColor=white&labelColor=0052FF" alt="NestJS" />
-  <img src="https://img.shields.io/badge/TypeScript-0F0F0D?style=flat-square&logo=typescript&logoColor=white&labelColor=0052FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-0F0F0D?style=flat-square&logo=mongodb&logoColor=white&labelColor=0052FF" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-0F0F0D?style=flat-square&logo=redis&logoColor=white&labelColor=0052FF" alt="Redis" />
-  <img src="https://img.shields.io/badge/Socket.IO-0F0F0D?style=flat-square&logo=socketdotio&logoColor=white&labelColor=0052FF" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/Docker-0F0F0D?style=flat-square&logo=docker&logoColor=white&labelColor=0052FF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-0F0F0D?style=flat-square&logo=nginx&logoColor=white&labelColor=0052FF" alt="Nginx" />
-  <img src="https://img.shields.io/badge/React-0F0F0D?style=flat-square&logo=react&logoColor=white&labelColor=0052FF" alt="React" />
-  <img src="https://img.shields.io/badge/Linux-0F0F0D?style=flat-square&logo=linux&logoColor=white&labelColor=0052FF" alt="Linux" />
+  <img src="https://img.shields.io/badge/-System%20Design-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="System Design" />
+  <img src="https://img.shields.io/badge/-Microservices-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-Distributed%20Systems-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/-Real--time%20Systems-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="Real-time Systems" />
+  <img src="https://img.shields.io/badge/-AI--powered%20Apps-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="AI-powered Apps" />
+  <img src="https://img.shields.io/badge/-Database%20Internals-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="Database Internals" />
 </p>
 
 ---
 
-<img src="./readme/section-interests.svg" alt="05 / Interests" width="100%" />
+<img src="./readme/section-stack.svg" alt="03 / Tech Stack" width="100%" />
 
-`system-design` `microservices` `distributed-systems` `real-time-systems`
-`ai-powered-apps` `database-internals`
+<p>
+  <img src="https://img.shields.io/badge/CORE-Node.js-0F0F0D?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0052FF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/CORE-NestJS-0F0F0D?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0052FF" alt="NestJS" />
+  <img src="https://img.shields.io/badge/CORE-TypeScript-0F0F0D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0052FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CORE-React%20%2F%20React%20Native-0F0F0D?style=for-the-badge&logo=react&logoColor=white&labelColor=0052FF" alt="React / React Native" />
+  <img src="https://img.shields.io/badge/CORE-Socket.IO%20%2F%20WebSocket-0F0F0D?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0052FF" alt="Socket.IO / WebSocket" />
+  <img src="https://img.shields.io/badge/CORE-REST%20API-0F0F0D?style=for-the-badge&labelColor=0052FF" alt="REST API" />
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-MongoDB-0F0F0D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0052FF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-Redis-0F0F0D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0052FF" alt="Redis" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-Docker-0F0F0D?style=for-the-badge&logo=docker&logoColor=white&labelColor=0052FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-Nginx-0F0F0D?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0052FF" alt="Nginx" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-Cloudinary-0F0F0D?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=0052FF" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/DATA%20%26%20INFRA-PostgreSQL%20%2F%20MySQL-0F0F0D?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0052FF" alt="PostgreSQL / MySQL" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TOOLS-Git-0F0F0D?style=for-the-badge&logo=git&logoColor=white&labelColor=0052FF" alt="Git" />
+  <img src="https://img.shields.io/badge/TOOLS-GitHub-0F0F0D?style=for-the-badge&logo=github&logoColor=white&labelColor=0052FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/TOOLS-GitHub%20Actions-0F0F0D?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0052FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/TOOLS-Postman-0F0F0D?style=for-the-badge&logo=postman&logoColor=white&labelColor=0052FF" alt="Postman" />
+  <img src="https://img.shields.io/badge/TOOLS-Swagger-0F0F0D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0052FF" alt="Swagger" />
+  <img src="https://img.shields.io/badge/TOOLS-Linux-0F0F0D?style=for-the-badge&logo=linux&logoColor=white&labelColor=0052FF" alt="Linux" />
+</p>
