@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./readme/hero.svg" alt="Nguyen Dang Khoa - Software Engineer / Backend Systems" width="100%" />
-
-I build backend systems and explore how software scales.
+<img src="./readme/hero.svg" alt="Nguyen Dang Khoa - Software Engineer /" width="100%" />
 
 <br />
 
