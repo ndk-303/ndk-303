@@ -1,0 +1,18 @@
+<svg width="900" height="76" viewBox="0 0 900 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">04 / Journey</title>
+  <style>
+    :root { --fg: #0F0F0D; --border: #D4D2CB; --accent: #0052FF; }
+    @media (prefers-color-scheme: dark) { :root { --fg: #F3F2ED; --border: #373733; --accent: #5B82FF; } }
+    .num { font: 500 13px "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.12em; fill: var(--accent); }
+    .title { font: 700 40px "Instrument Sans", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -0.02em; fill: var(--fg); transition: fill 0.25s ease; }
+    .rule { stroke: var(--border); transition: stroke 0.25s ease; }
+    .accent { stroke: var(--accent); stroke-width: 2; stroke-dasharray: 80 820; transition: stroke-dasharray 0.35s cubic-bezier(0.4, 0, 0.2, 1); }
+    svg:hover .title { fill: var(--accent); }
+    svg:hover .rule { stroke: var(--accent); }
+    svg:hover .accent { stroke-dasharray: 900 0; }
+  </style>
+  <text class="num" x="0" y="20">04</text>
+  <text class="title" x="0" y="58">JOURNEY</text>
+  <path class="rule" d="M0 75.5H900" />
+  <path class="accent" d="M0 75H900" />
+</svg>

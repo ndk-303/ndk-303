@@ -1,56 +1,87 @@
 <div align="center">
 
-# Nguyen Dang Khoa
+<img src="./assets/readme/hero.svg" alt="Nguyen Dang Khoa - Software Engineer / Backend Systems" width="100%" />
 
-### Software Engineer
+I build backend systems and explore how software scales.
 
-Building backend systems, realtime applications, and scalable software.
+<br />
 
-📍 Ho Chi Minh City, Vietnam · Software Engineering @ Ton Duc Thang University (2024–present)
+[![GitHub](https://img.shields.io/badge/GITHUB-ndk--303-0F0F0D?style=for-the-badge&logo=github&logoColor=white&labelColor=0052FF)](https://github.com/ndk-303)
+[![Email](https://img.shields.io/badge/EMAIL-nguyendangkhoa.dev%40gmail.com-0F0F0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0052FF)](mailto:nguyendangkhoa.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Khoa_Nguyen_Dang-0F0F0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0052FF)](https://www.linkedin.com/in/khoa-nguyen-dang-262768332)
 
-[![Email](https://img.shields.io/badge/Email-nguyendangkhoa.dev%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:nguyendangkhoa.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoa-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/khoa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square\&logo=vercel\&logoColor=white)](#)
+<br />
 
 <a href="https://aisq.dev/members/khoand">
   <img src="https://aisq.dev/badges/initiator-2026.svg" alt="AIAI Initiator 2026" />
 </a>
+
 </div>
 
 ---
 
-### About
+```txt
+00 / HOME - HO CHI MINH CITY, VIETNAM
 
-I'm a Software Engineering student focused on backend development and scalable systems.
+whoami
+> Backend Engineer - distributed systems & scale
 
-I enjoy building APIs, realtime applications, and backend services, with a growing interest in system architecture, infrastructure, and the engineering decisions behind reliable software.
+cat focus.txt
+> Real-time systems, distributed architecture,
+> and how databases behave under failure.
 
-Currently, I'm expanding my experience through backend projects while exploring how modern systems are designed, deployed, and scaled.
+cat status.txt
+> open_to        internship
+> based_in       Ho Chi Minh City
+> education      Software Engineering @ Ton Duc Thang University
+```
 
 ---
 
-### Tech Stack
+<img src="./assets/readme/section-about.svg" alt="01 / About" width="100%" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+I'm Khoa, a Software Engineering student at Ton Duc Thang University in Ho Chi Minh City, Vietnam.
+My focus is backend systems - the part of software most people never see but everyone depends on.
 
+I gravitate toward problems of scale and reliability: how systems stay fast under load, how data
+stays consistent across failures, and how complexity can be contained through good design decisions
+made early.
+
+Right now, I'm building real-time and distributed systems: horizontally scalable chat backends,
+event-driven ordering platforms, and application layers that connect users to complex services
+without making that complexity leak into the product.
+
+---
+
+<img src="./assets/readme/section-stack.svg" alt="03 / Tech Stack" width="100%" />
+
+| CORE | DATA & INFRA | TOOLS |
+|---|---|---|
+| Node.js | MongoDB | Git |
+| NestJS | Redis | GitHub |
+| TypeScript | Docker | GitHub Actions |
+| React / React Native | Nginx | Postman |
+| Socket.IO / WebSocket | Cloudinary | Swagger |
+| REST API | PostgreSQL / MySQL | Linux |
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0F0F0D?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0052FF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-0F0F0D?style=flat-square&logo=nestjs&logoColor=white&labelColor=0052FF" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-0F0F0D?style=flat-square&logo=typescript&logoColor=white&labelColor=0052FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-0F0F0D?style=flat-square&logo=mongodb&logoColor=white&labelColor=0052FF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-0F0F0D?style=flat-square&logo=redis&logoColor=white&labelColor=0052FF" alt="Redis" />
+  <img src="https://img.shields.io/badge/Socket.IO-0F0F0D?style=flat-square&logo=socketdotio&logoColor=white&labelColor=0052FF" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Docker-0F0F0D?style=flat-square&logo=docker&logoColor=white&labelColor=0052FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-0F0F0D?style=flat-square&logo=nginx&logoColor=white&labelColor=0052FF" alt="Nginx" />
+  <img src="https://img.shields.io/badge/React-0F0F0D?style=flat-square&logo=react&logoColor=white&labelColor=0052FF" alt="React" />
+  <img src="https://img.shields.io/badge/Linux-0F0F0D?style=flat-square&logo=linux&logoColor=white&labelColor=0052FF" alt="Linux" />
+</p>
+
+---
+
+<img src="./assets/readme/section-interests.svg" alt="05 / Interests" width="100%" />
+
+`system-design` `microservices` `distributed-systems` `real-time-systems`
+`ai-powered-apps` `database-internals`
+
+---
