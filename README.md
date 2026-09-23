@@ -20,24 +20,6 @@ I build backend systems and explore how software scales.
 
 ---
 
-```txt
-00 / HOME - HO CHI MINH CITY, VIETNAM
-
-whoami
-> Backend Engineer - distributed systems & scale
-
-cat focus.txt
-> Real-time systems, distributed architecture,
-> and how databases behave under failure.
-
-cat status.txt
-> open_to        internship
-> based_in       Ho Chi Minh City
-> education      Software Engineering @ Ton Duc Thang University
-```
-
----
-
 <img src="./assets/readme/section-about.svg" alt="01 / About" width="100%" />
 
 I'm Khoa, a Software Engineering student at Ton Duc Thang University in Ho Chi Minh City, Vietnam.
